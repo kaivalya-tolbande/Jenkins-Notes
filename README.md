@@ -14,7 +14,6 @@ Jenkins is an open-source automation tool written in Java with plugins built for
 Jenkins is used to build and test your software projects continuously make it easier for developers to integrate changes to the project, and make it easier for users to obtain a fresh build. It provides many plugins that help to support building, deploying and automating any project.
 
 ## Jenkins Workflow
-![image](https://github.com/kaivalya-tolbande/Jenkins-Notes/assets/110324856/c4f868fb-f8a9-425a-8d5c-fd5ebd08aba9)
 
 ![Modern Project Management Process Infographic Graph (3)](https://user-images.githubusercontent.com/69889600/214857610-4fc3e64c-a262-4a6b-9e4d-b5b4eed057c6.png)
 
